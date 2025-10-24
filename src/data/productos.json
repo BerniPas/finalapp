@@ -1,0 +1,68 @@
+[
+  {
+    "id": "p001",
+    "nombre": "Auriculares inalámbricos ZX-1",
+    "descripcion": "Auriculares Bluetooth con cancelación de ruido, batería de 30 horas y carga rápida.",
+    "precio": 79.99,
+    "imagen": "../assets/auriculares_zx1.jpg",
+    "categoria": "Audio",
+    "stock": 25,
+    "rating": 4.6,
+    "destacado": true
+  },
+  {
+    "id": "p002",
+    "nombre": "Cámara compacta FOCUS 12",
+    "descripcion": "Cámara de 20MP con zoom óptico 10x y grabación 4K.",
+    "precio": 249.5,
+    "imagen": "../assets/camara_focus12.jpg",
+    "categoria": "Cámaras",
+    "stock": 12,
+    "rating": 4.2,
+    "destacado": false
+  },
+  {
+    "id": "p003",
+    "nombre": "Smartwatch ProFit",
+    "descripcion": "Reloj inteligente con monitor de ritmo cardiaco, seguimiento de sueño y GPS.",
+    "precio": 129.0,
+    "imagen": "../assets/smartwatch_profit.jpg",
+    "categoria": "Wearables",
+    "stock": 40,
+    "rating": 4.4,
+    "destacado": true
+  },
+  {
+    "id": "p004",
+    "nombre": "Altavoz portátil BoomSound",
+    "descripcion": "Altavoz resistente al agua con sonido estéreo y batería de 20 horas.",
+    "precio": 59.99,
+    "imagen": "../assets/altavoz_boomsound.jpg",
+    "categoria": "Audio",
+    "stock": 0,
+    "rating": 4.0,
+    "destacado": false
+  },
+  {
+    "id": "p005",
+    "nombre": "Teclado mecánico K-Board",
+    "descripcion": "Teclado mecánico con switches táctiles y retroiluminación RGB.",
+    "precio": 89.99,
+    "imagen": "../assets/teclado_kboard.jpg",
+    "categoria": "Periféricos",
+    "stock": 18,
+    "rating": 4.7,
+    "destacado": true
+  },
+  {
+    "id": "p006",
+    "nombre": "Monitor UltraView 24",
+    "descripcion": "Monitor IPS 24 pulgadas con resolución 1920x1080, 75Hz y soporte ajustable.",
+    "precio": 159.99,
+    "imagen": "../assets/monitor_ultraview24.jpg",
+    "categoria": "Monitores",
+    "stock": 7,
+    "rating": 4.3,
+    "destacado": false
+  }
+]

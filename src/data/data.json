@@ -1,0 +1,22 @@
+
+{
+    "titulo":"Personajes de Mi Empresa",
+    "descripcion": "Bienvenido a la página de Mi Empresa. Ofrecemos los mejores servicios para ti.",
+    "contacto": {
+        "email": "contacto@miempresa.com",
+        "telefono": "+34 123 456 789"
+    
+    },
+    "redes_sociales": {
+        "facebook": "https://www.facebook.com/miempresa",
+        "twitter": "https://www.twitter.com/miempresa",
+        "instagram": "https://www.instagram.com/miempresa",
+        "linkedin": "https://www.linkedin.com/company/miempresa"
+    },
+    "nosotros": {
+        "mision": "Proveer servicios de alta calidad que satisfagan las necesidades de nuestros clientes.",
+        "vision": "Ser líderes en el mercado y reconocidos por nuestra excelencia y compromiso."
+    }
+}
+
+

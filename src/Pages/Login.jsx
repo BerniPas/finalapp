@@ -21,13 +21,15 @@ function Login() {
 
     const navigate = useNavigate();
 
+    const API_URL = import.meta.env.VITE_API_LOCAL;
+
 
     /* Creamos la función para el envío de los datos */
     const enviarDatos = (e) => {
         e.preventDefault();
         console.log(email, password, comentarios);
 
-        axios.post('http://localhost:9000/login', {
+        axios.post(API_URL, {
             email: email,
             password: password,
             comentarios: comentarios
